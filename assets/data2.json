@@ -1,0 +1,25 @@
+[
+  {
+    "createdAt": 1576246765749,
+    "updatedAt": 1576251783167,
+    "id": 3,
+    "name": "IvoireBoutik 3",
+    "photo": "http://IvoireBoutik.com",
+    "cigle": "C'est ChapNik",
+    "tel": 87837592,
+    "address": {
+      "createdAt": 1576251782759,
+      "updatedAt": 1576251782759,
+      "id": 24,
+      "commune": "Yoppougon",
+      "ville": "Abidjan",
+      "logitude": 87652.042,
+      "latitude": 25465.05
+    },
+    "type": {
+      "createdAt": 1576234514544,
+      "updatedAt": 1576234514544,
+      "id": 2,
+      "name": "5 Etoiles"
+    }
+  }]
